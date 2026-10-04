@@ -1,4 +1,4 @@
-# Watermelon
+# Problem name
 
 **Platform:** Platform name
 
