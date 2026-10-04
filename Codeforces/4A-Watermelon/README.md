@@ -1,7 +1,7 @@
 # Watermelon
 
 **Platform:** Codeforces  
-**Problem:** [Watermelon](https://codeforces.com/problemset/problem/4/A)  
+**Problem:** [4A-Watermelon](https://codeforces.com/problemset/problem/4/A)  
 **Rating:** 800  
 **Language:** C++
 
