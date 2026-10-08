@@ -6,6 +6,10 @@ sort(arr, arr + n); // example for the above statement
 sort(vec.begin(), vec.end(), greater<int>()); // for vectors
 cout<<(w < 0 ? "YES" : "NO") //condition ? value_if_true : value_if_false
 
+accumulate( InputIt first, InputIt last, T init );
+
+//if T init is zero then it takes everythhing in 32 bit, so you will need long long for 10**9 stuffs
+
 ```
 
 ## Important Conceptual Problems
