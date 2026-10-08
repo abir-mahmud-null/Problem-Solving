@@ -2,6 +2,7 @@
 min(a,b); // compares a and b then returns the smaller one
 max(a,b); // same thing but maximum
 sort(start_iterator, end_iterator, custom_comparator);
+sort(arr, arr + n); // example for the above statement
 sort(vec.begin(), vec.end(), greater<int>()); // for vectors
 cout<<(w < 0 ? "YES" : "NO") //condition ? value_if_true : value_if_false
 
