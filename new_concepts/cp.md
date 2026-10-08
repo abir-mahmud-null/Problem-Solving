@@ -7,7 +7,7 @@ cout<<(w < 0 ? "YES" : "NO") //condition ? value_if_true : value_if_false
 
 ## Important Conceptual Problems
 
-[1468E](https://codeforces.com/problemset/problem/1468/E ) 
+[1468E](https://codeforces.com/problemset/problem/1468/E )   
 Suppose the values of a1
 , a2
 , a3
@@ -24,3 +24,7 @@ It's easy to construct the rectangle with exactly this area by drawing the follo
 - from (0,a3) to (a2,a3);  
 - from (0,0)to (0,a3);  
 - from (a1,0)to (a1,a4);  
+
+So, the solution is to sort the sequence [a1,a2,a3,a4]
+, and then print a1⋅a3
+.
