@@ -29,3 +29,5 @@ So, the solution is to sort the sequence [a1,a2,a3,a4], and then print a1⋅a3.
 [1765B](https://codeforces.com/problemset/problem/1765/B)
 
 The first one is the condition on the number of characters: n mod 3 ̸ = 2, since after the first key press, we get the remainder 1 modulo 3, after the second key press, we get the remainder 0 modulo 3, then 1 again, then 0 — and so on, and we cannot get the remainder 2. Then we need to check that, in each pair of characters which appeared from the same key press, these characters are the same — that is, s2 = s3, s5 = s6, s8 = s9, and so on
+
+== abc ==
