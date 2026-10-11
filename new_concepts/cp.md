@@ -1,11 +1,15 @@
 ```cpp
-min(a,b); // compares a and b then returns the smaller one
-max(a,b); // same thing but maximum
-sort(start_iterator, end_iterator, custom_comparator);
-sort(arr, arr + n); // example for the above statement
-sort(vec.begin(), vec.end(), greater<int>()); // for vectors
-cout<<(w < 0 ? "YES" : "NO") //condition ? value_if_true : value_if_false
+min(a,b);     // compares a and b then returns the smaller one
+max(a,b);     // same thing but maximum
 
+char a;
+int b = a-"0";   // ASCII code to interger maybe idk but turns string to integer
+
+sort(start_iterator, end_iterator, custom_comparator);
+sort(arr, arr + n);                                // example for the above statement
+sort(vec.begin(), vec.end(), greater<int>());      // for vectors
+cout<<(w < 0 ? "YES" : "NO")                       //condition ? value_if_true : value_if_false
+  
 accumulate( InputIt first, InputIt last, T init );
 
 //if T init is zero then it takes everythhing in 32 bit, so you will need long long for 10**9 stuffs
