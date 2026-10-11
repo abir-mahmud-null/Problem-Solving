@@ -24,7 +24,7 @@ It's easy to construct the rectangle with exactly this area by drawing the follo
 - from (0,0)to (0,a3);  
 - from (a1,0)to (a1,a4);  
 
-So, the solution is to sort the sequence [a1,a2,a3,a4], and then print a1⋅a3.
+So, the solution is to `sort` the sequence [a1,a2,a3,a4], and then `print a1⋅a3`.
 
 [1765B](https://codeforces.com/problemset/problem/1765/B)
 
