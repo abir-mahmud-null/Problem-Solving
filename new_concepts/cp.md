@@ -4,6 +4,8 @@ max(a,b);     // same thing but maximum
 
 char a;
 int b = a-"0";   // ASCII code to interger maybe idk but turns string to integer
+string s;
+cout<<s[0];   // using string as an array
 
 sort(start_iterator, end_iterator, custom_comparator);
 sort(arr, arr + n);                                // example for the above statement
