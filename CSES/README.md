@@ -3,16 +3,16 @@
 **Platform:** CSES Problemset
 
 **Problem:** [Problem name](link)  
-**Rating:** 800  
-**Language:** C++
+**Rating:** rating    
+**Language:** language  
 
 ## Approach
 
-Just use one condition
+approach in text 
 
 So:
 
-- n=(n%2==0 ? n/2 : (n*3)+1)
+- logic
 
 
 ## Complexity
