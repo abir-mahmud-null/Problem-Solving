@@ -1,22 +1,21 @@
-# Problem name
 
-**Platform:** Platform name
 
-**Problem:** [link name](paste link here)  
-**Rating:** rating
-**Language:** language
+**Platform:** CSES Problemset
+
+**Problem:** [Problem name](link)  
+**Rating:** 800  
+**Language:** C++
 
 ## Approach
 
-Approach in text
+Just use one condition
 
 So:
 
-- in logic
-- in logic 2
+- n=(n%2==0 ? n/2 : (n*3)+1)
+
 
 ## Complexity
 
-Time: O()
+Time: O()  
 Space: O()
-
