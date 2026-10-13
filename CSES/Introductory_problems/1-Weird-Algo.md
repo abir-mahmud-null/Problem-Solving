@@ -3,7 +3,7 @@
 **Platform:** CSES Problemset
 
 **Problem:** [Wierd Algorithm](https://cses.fi/problemset/task/1068)  
-**Rating:** 800
+**Rating:** 800  
 **Language:** C++
 
 ## Approach
