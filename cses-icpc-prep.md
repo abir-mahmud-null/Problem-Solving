@@ -5,7 +5,7 @@ Aim for about 4-5 problems per day. If you're stuck for more than 40 minutes, re
 ## Days 1-2: Warm-up and Sorting/Searching
 
 - [x] [Repetitions](https://cses.fi/problemset/task/1069)
-- [ ] [Missing Number](https://cses.fi/problemset/task/1083)
+- [x] [Missing Number](https://cses.fi/problemset/task/1083)
 - [ ] [Increasing Array](https://cses.fi/problemset/task/1094)
 - [ ] [Distinct Numbers](https://cses.fi/problemset/task/1621)
 - [ ] [Apartments](https://cses.fi/problemset/task/1084)
