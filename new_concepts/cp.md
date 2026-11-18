@@ -17,6 +17,10 @@ cout<<(w < 0 ? "YES" : "NO")                       //condition ? value_if_true :
   
 accumulate( InputIt first, InputIt last, T init );
 
+// there is exponential numbers or huge powered numbers use log10(x)
+a = b*log10(x);
+// And log(x) is actually ln
+
 //if T init is zero then it takes everythhing in 32 bit, so you will need long long for 10**9 stuffs
 
 ```
